@@ -12,7 +12,7 @@ I'm Aya Hamdan. I graduated from An-Najah National University with a major in Co
 - **Developing my skills in:** backend development & APIs**  
 - **Practicing:** problem solving, algorithms, and clean architecture**
 ## 📫 Get in Touch 
-- 📧 [Email me](mailto:ayahamdan235@gmail.com)  
+- 📧 [Email me](mailto: ayahamdan235@gmail.com)  
 - 💼 [LinkedIn](#) (in/aya-hamdan-106533275)  
 
 
