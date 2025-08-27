@@ -1,17 +1,12 @@
 ### Hi there 👋
 
-I'm Aya Hamdan,I graduated from An-Najah National University with a major in Computer Engineering,I'm a passionate backend developer focused on crafting scalable and efficient solutions to complex problems. With a strong foundation in backend technologies and a knack for building robust APIs, I strive to deliver high-quality software that meets the needs of users and businesses alike.
+I'm Aya Hamdan. I graduated from An-Najah National University with a major in Computer Engineering,I'm a passionate backend developer focused on crafting scalable and efficient solutions to complex problems. With a strong foundation in backend technologies and a knack for building robust APIs, I strive to deliver high-quality software that meets the needs of users and businesses alike.
 
 ## 🚀 Technologies & Tools
-   -Java
-   -C++
-   -HTML
-   -CSS
-   -Javascript
-   -PHP
-   -React Native
-   -C#
-   -asp.net
+- **Languages:** Java, C++, C#, PHP, JavaScript  
+- **Frameworks:** React Native, Laravel (learning)  
+- **Web:** HTML, CSS  
+- **Databases:** MySQL
 
 - 🔭 I’m currently working on developing my experience in the field of backend
 - 📫 How to reach me: via email ayahamdan222002@gmail.com
