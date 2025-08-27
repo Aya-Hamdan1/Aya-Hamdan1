@@ -8,7 +8,10 @@ I'm Aya Hamdan. I graduated from An-Najah National University with a major in Co
 - **Web:** HTML, CSS  
 - **Databases:** MySQL
 
-- 🔭 I’m currently working on developing my experience in the field of backend
+- 🌱 Currently
+- **Developing my skills in:** backend development & APIs**  
+- **Practicing:** problem solving, algorithms, and clean architecture** 
+- 🌱 I’m currently learning Developing my skills in **backend development & APIs**
 - 📫 How to reach me: via email ayahamdan222002@gmail.com
 
 
